@@ -1,0 +1,11 @@
+C:\Users\Mateusz\source\repos\krd_project\krd_project\bin\Debug\netcoreapp2.2\krd_project.API.deps.json
+C:\Users\Mateusz\source\repos\krd_project\krd_project\bin\Debug\netcoreapp2.2\krd_project.API.runtimeconfig.json
+C:\Users\Mateusz\source\repos\krd_project\krd_project\bin\Debug\netcoreapp2.2\krd_project.API.runtimeconfig.dev.json
+C:\Users\Mateusz\source\repos\krd_project\krd_project\bin\Debug\netcoreapp2.2\krd_project.API.dll
+C:\Users\Mateusz\source\repos\krd_project\krd_project\obj\Debug\netcoreapp2.2\krd_project.API.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\krd_project\krd_project\obj\Debug\netcoreapp2.2\krd_project.API.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\krd_project\krd_project\obj\Debug\netcoreapp2.2\krd_project.API.RazorAssemblyInfo.cache
+C:\Users\Mateusz\source\repos\krd_project\krd_project\obj\Debug\netcoreapp2.2\krd_project.API.RazorAssemblyInfo.cs
+C:\Users\Mateusz\source\repos\krd_project\krd_project\obj\Debug\netcoreapp2.2\krd_project.API.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\krd_project\krd_project\obj\Debug\netcoreapp2.2\krd_project.API.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\krd_project\krd_project\obj\Debug\netcoreapp2.2\krd_project.API.RazorTargetAssemblyInfo.cache
